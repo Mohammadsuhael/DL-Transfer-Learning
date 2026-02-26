@@ -285,7 +285,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ### New Sample Data Prediction
 <img width="482" height="461" alt="image" src="https://github.com/user-attachments/assets/ef253050-f79e-408e-913c-2e46e1566acd" />
-![Uploading image.png…]()
+<img width="479" height="455" alt="image" src="https://github.com/user-attachments/assets/54a2ec0a-f897-4098-8c37-9b8ccdcebc33" />
 
 
 ## RESULT
